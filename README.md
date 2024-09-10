@@ -1,2 +1,2 @@
-# loginApp
-Version Control System
+# Version Control System
+Bangkit Academy pratice
